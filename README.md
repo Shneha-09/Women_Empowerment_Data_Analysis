@@ -52,6 +52,3 @@ The dashboard provides insights into:
 
 This dashboard demonstrates how data analytics can be used to better understand women's empowerment and highlight progress toward gender equality around the world.
 
-## Author
-
-Data Analytics Project created as part of a learning portfolio.
